@@ -6,4 +6,4 @@ def password(p):
     else:
         return "ACCESS GRANTED"
 
-print(password())
+print(password("Knight19"))
